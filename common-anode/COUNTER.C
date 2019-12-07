@@ -16,7 +16,7 @@ void main()
   {
     for(i=0;i<10;i++)
     {
-      P2=arr[i];
+      P2=~arr[i];    //assiging alternate HEX value for anode type
       delay(100); //here delay of 1 second
     }
   }
