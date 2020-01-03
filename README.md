@@ -39,5 +39,13 @@ microSegment7 comes with pre-coded `universal responses` to display on a set of 
 
 | Response Name                        | Function                    | Output                                                  | 
 | :------------------------------------ | :-------------------------- | :----------------------------------------------------------- |
-| Hellow                                 | <pre>say_hellow();</pre>                  | <img src="https://github.com/vivekverma007/microSegment7/blob/master/preview/say_hellow.PNG" width="150" />                    | 
-| Echo                             | <pre>say_hellow();</pre>             | A function that's called when the refreshing of page takes   |
+| Hellow | <pre>say_hellow();</pre> | <img src="https://github.com/vivekverma007/microSegment7/blob/master/preview/say_hellow.PNG" height="50" /> | 
+| Echo | <pre>say_echo();</pre> | <img src="https://github.com/vivekverma007/microSegment7/blob/master/preview/say_echo.PNG" height="50" /> |
+| On | <pre>say_on();</pre> | <img src="https://github.com/vivekverma007/microSegment7/blob/master/preview/say_on.PNG" height="50" /> |
+| Off | <pre>say_Off();</pre> | <img src="https://github.com/vivekverma007/microSegment7/blob/master/preview/say_off.PNG" height="50" /> |
+| Start | <pre>say_start();</pre> | <img src="https://github.com/vivekverma007/microSegment7/blob/master/preview/say_start.PNG" height="50" /> |
+| End | <pre>say_end();</pre> | <img src="https://github.com/vivekverma007/microSegment7/blob/master/preview/say_end.PNG" height="50" /> |
+| Pause | <pre>say_pause();</pre> | <img src="https://github.com/vivekverma007/microSegment7/blob/master/preview/say_pause.PNG" height="50" /> |
+| Go | <pre>say_go();</pre> | <img src="https://github.com/vivekverma007/microSegment7/blob/master/preview/say_go.PNG" height="50" /> |
+| Up | <pre>say_up();</pre> | <img src="https://github.com/vivekverma007/microSegment7/blob/master/preview/say_up.PNG" height="50" /> |
+| Loop | <pre>say_loop();</pre> | <img src="https://github.com/vivekverma007/microSegment7/blob/master/preview/say_loop.PNG" height="50" /> |
