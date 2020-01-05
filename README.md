@@ -13,8 +13,8 @@
       alt="Repo. Size" />
   </a>
   
-<a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-E0872F.svg"
+<a href="https://github.com/vivekverma007/microSegment7/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/vivekverma007/microSegment7.svg?color=E0872F"
       alt="License: MIT" />
   </a>
   
@@ -61,3 +61,9 @@ microSegment7 comes with pre-coded `universal responses` use to display on a set
 | Go | <pre>say_go();</pre> | <img src="https://github.com/vivekverma007/microSegment7/blob/master/preview/say_go.PNG" height="40" /> |
 | Up | <pre>say_up();</pre> | <img src="https://github.com/vivekverma007/microSegment7/blob/master/preview/say_up.PNG" height="40" /> |
 | Loop | <pre>say_loop();</pre> | <img src="https://github.com/vivekverma007/microSegment7/blob/master/preview/say_loop.PNG" height="40" /> |
+
+
+## License
+
+microSegment7 is licensed under `MIT license`. View [license](https://github.com/vivekverma007/microSegment7/blob/master/LICENSE).<br>
+Copyright (c) 2019 @vivekverma007
