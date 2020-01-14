@@ -47,7 +47,7 @@ microSegment7 comes with pre-coded `universal responses` use to display on a set
 ```c
 #include "microSegment7/commonAnode/response.c"
 ```
-## Documentation about methods
+### Documentation for `Responses`
 
 | Response Name                        | Function                    | Displays Result                                       | 
 | :------------------------------------ | :-------------------------- | :----------------------------------------------------------- |
