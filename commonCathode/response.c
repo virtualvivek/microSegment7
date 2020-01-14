@@ -43,7 +43,7 @@ void say_start()
     //outputs Start to the system
     PORTA = lang[35]; //S
     PORTB = lang[68]; //t
-    PORTC = lang[217]; //A
+    PORTC = lang[17]; //A
     PORTD = lang[66]; //r
     PORTE = lang[68]; //t
   }
@@ -55,4 +55,23 @@ void say_end()
     PORTA = lang[21]; //E
     PORTB = lang[62]; //n
     PORTC = lang[52]; //d
+  }
+
+
+void say_pause()
+  {
+    //outputs END to the system
+    PORTA = lang[32]; //P
+    PORTB = lang[17]; //A
+    PORTC = lang[37]; //U
+    PORTD = lang[35]; //S
+    PORTE = lang[21]; //E
+  }
+
+
+void say_go()
+  {
+    //outputs END to the system
+    PORTA = lang[23]; //G
+    PORTB = lang[63]; //o
   }
