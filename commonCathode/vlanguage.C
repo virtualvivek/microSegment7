@@ -16,10 +16,12 @@ const unsigned char dictonary[75]= {
 };
 
 /* Invalid letters are mapped to all segments off (0x00). */
+
 unsigned char lang(int index)
-{ /* assuming implementation uses ASCII */
+{ 
+    /* assuming implementation uses ASCII */
+    
     if (chr > (unsigned char)'z')
         return 0x00;
     return dictonary[index];
-    /* or  seven_seg_digits_decode_gfedcba */
 }
