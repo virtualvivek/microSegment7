@@ -1,5 +1,7 @@
 #include<reg51.h>
 
+//this module is build for single 7-segment display (0-9)
+
 void delay(int delay_val)  //delay in milliseconds
 {
   int i,j;
