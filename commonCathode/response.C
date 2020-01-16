@@ -75,3 +75,21 @@ void say_go()
     PORTA = lang[23]; //G
     PORTB = lang[63]; //o
   }
+
+
+void say_up()
+  {
+    //outputs END to the system
+    PORTA = lang[37]; //U
+    PORTB = lang[32]; //P
+  }
+
+
+void say_loop()
+  {
+    //outputs END to the system
+    PORTA = lang[28]; //L
+    PORTB = lang[31]; //O
+    PORTB = lang[31]; //O
+    PORTB = lang[32]; //P
+  }
