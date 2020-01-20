@@ -60,7 +60,7 @@ void say_end()
 
 void say_pause()
   {
-    //outputs END to the system
+    //outputs PAUSE to the system
     PORTA = lang[32]; //P
     PORTB = lang[17]; //A
     PORTC = lang[37]; //U
@@ -71,7 +71,7 @@ void say_pause()
 
 void say_go()
   {
-    //outputs END to the system
+    //outputs Go to the system
     PORTA = lang[23]; //G
     PORTB = lang[63]; //o
   }
@@ -79,7 +79,7 @@ void say_go()
 
 void say_up()
   {
-    //outputs END to the system
+    //outputs UP to the system
     PORTA = lang[37]; //U
     PORTB = lang[32]; //P
   }
@@ -87,7 +87,7 @@ void say_up()
 
 void say_loop()
   {
-    //outputs END to the system
+    //outputs LOOP to the system
     PORTA = lang[28]; //L
     PORTB = lang[31]; //O
     PORTB = lang[31]; //O
