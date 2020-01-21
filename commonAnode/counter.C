@@ -16,7 +16,7 @@ void display_1_counter()
   {
     for(i=0;i<10;i++)
     {
-      P2=arr[i];    //assiging alternate HEX value for anode type
+      P2=arr[i];    //assiging HEX value for anode type
       delay(100);   //here delay of 1 second
     }
   }
@@ -33,7 +33,7 @@ void display_1_even()
     {
       if(i%2==0)
       {
-      P2=arr[i];    //assiging alternate HEX value for even digits
+      P2=arr[i];    //assiging HEX value for even digits
       delay(100);    //here delay of 1 second
       }
     }
@@ -52,7 +52,7 @@ void display_1_odd()
     {
       if(i%2!=0)
       {
-      P2=~arr[i];    //assiging alternate HEX value for odd digits
+      P2=arr[i];    //assiging HEX value for odd digits
       delay(100);    //here delay of 1 second
       }
     }
@@ -69,7 +69,7 @@ void display_1_timer()   //Reverse counter-> from 9-0 counter
   {
     for(i=9;i>=0;i--)
     {
-      P2=arr[i];    //assiging alternate HEX value for anode type
+      P2=arr[i];    //assiging HEX value for anode type
       delay(100);   //here delay of 1 second
     }
   }
