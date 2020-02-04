@@ -41,12 +41,12 @@ microSegment7 comes with pre-coded `universal responses` use to display on a set
 
 #### for common-cathode
 ```c
-#include "microSegment7/commonCathode/response.c"
+#include<microSegment7/commonCathode/response.c>
 ```
 
 #### for common-anode
 ```c
-#include "microSegment7/commonAnode/response.c"
+#include<microSegment7/commonAnode/response.c>
 ```
 ### Documentation for `Responses`
 
