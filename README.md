@@ -19,7 +19,7 @@
   </a>
   
 <a href="https://github.com/vivekverma007/microSegment7">
-    <img src="https://img.shields.io/badge/Release-v1.0-419466.svg?style=flat"
+    <img src="https://img.shields.io/badge/Release-v1.1-419466.svg?style=flat"
       alt="Release" />
   </a>
   
