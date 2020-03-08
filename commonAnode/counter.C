@@ -4,7 +4,7 @@ void delay(int delay_val)  //delay in milliseconds
 {
   int i,j;
   for(i=0;i<delay_val;i++)
-   for(j=0;j<1275;j++);
+    for(j=0;j<1275;j++);
 }
 
 void display_1_counter()
@@ -33,8 +33,8 @@ void display_1_even()
     {
       if(i%2==0)
       {
-      P2=arr[i];    //assiging HEX value for even digits
-      delay(100);    //here delay of 1 second
+        P2=arr[i];    //assiging HEX value for even digits
+        delay(100);    //here delay of 1 second
       }
     }
   }
@@ -52,8 +52,8 @@ void display_1_odd()
     {
       if(i%2!=0)
       {
-      P2=arr[i];    //assiging HEX value for odd digits
-      delay(100);    //here delay of 1 second
+        P2=arr[i];    //assiging HEX value for odd digits
+        delay(100);    //here delay of 1 second
       }
     }
   }
