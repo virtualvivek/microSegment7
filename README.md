@@ -67,4 +67,4 @@ microSegment7 comes with pre-coded `universal responses` use to display on a set
 ## License
 
 microSegment7 is licensed under `MIT license`. View [license](https://github.com/vivekverma007/microSegment7/blob/master/LICENSE).<br>
-Copyright (c) 2019-20 Vivek Verma
+Copyright (c) 2019-20 `Vivek Verma`
