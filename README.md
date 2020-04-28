@@ -28,7 +28,7 @@
 
 </p>
 
-<p align="center">This library provides modules for 7-segment display belongs to 8051 microcontroller to perform number counters, system callbacks, general responses, series of numbers operations ,display text patterns and more related to 8051 microcontroller, available code for both common cathode and common anode 7-segment display.
+<p align="center">This library provides modules for <code>7-segment display</code> belongs to 8051 microcontroller to perform number counters, system callbacks, general responses, series of numbers operations ,display text patterns and more related to 8051 microcontroller, available code for both common cathode and common anode 7-segment display.
 </p>
 
 <h5></h5>
