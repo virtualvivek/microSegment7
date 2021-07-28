@@ -3,23 +3,23 @@
 
 <p align="center">
 	<a href="https://www.google.com/search?q=web">
-    <img src="https://img.shields.io/badge/Platform-Embedded-red.svg?color=red"
+    <img src="https://img.shields.io/badge/Platform-Embedded-red.svg?style=flat-square&color=red&logo=RobotFramework&logoColor=ffffff"
       alt="Embedded" />
   </a>
-	
 
+	
   <a href="https://github.com/virtualvivek/microSegment7">
-    <img src="https://img.shields.io/github/repo-size/vivekverma007/microSegment7.svg?color=blue"
-      alt="Repo. Size" />
+    <img src="https://img.shields.io/github/languages/code-size/vivekverma007/microSegment7.svg?style=flat-square&color=blue&label=CodeSize&logo=HackTheBox&logoColor=ffffff"
+      alt="Code Size" />
   </a>
   
 <a href="https://github.com/vivekverma007/microSegment7/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/vivekverma007/microSegment7.svg?color=E0872F"
+    <img src="https://img.shields.io/github/license/vivekverma007/microSegment7.svg?style=flat-square&color=00C244&logo=PyTorchLightning"
       alt="License: MIT" />
   </a>
   
 <a href="https://github.com/virtualvivek/microSegment7">
-    <img src="https://img.shields.io/badge/Release-v1.1-419466.svg?style=flat"
+    <img src="https://img.shields.io/badge/Release-v1.1-419466.svg?style=flat-square&logo=git&logoColor=ffffff"
       alt="Release" />
   </a>
   
@@ -28,7 +28,7 @@
 
 </p>
 
-<p align="center">This library provides modules for <code>7-segment display</code> using 8051 microcontroller to perform number counters, system callbacks, general responses, series of numbers operations ,display text patterns and more related to 8051 microcontroller, available code for both common cathode and common anode 7-segment display.
+<p align="center">This library provides modules for <code>7-segment display</code> using <b>8051 microcontroller</b> to perform number counters, system callbacks, general responses, display text patterns, available code for both common cathode and common anode.
 </p>
 
 <h5></h5>
@@ -67,4 +67,4 @@ microSegment7 comes with pre-coded `universal responses` use to display on a set
 ## License
 
 microSegment7 is licensed under `MIT license`. View [license](https://github.com/virtualvivek/microSegment7/blob/master/LICENSE).<br>
-Copyright (c) 2019-21 `Vivek Verma`
+Copyright (c) 2019-21 [**Vivek Verma**](https://github.com/virtualvivek)
