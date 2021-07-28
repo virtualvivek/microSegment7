@@ -33,22 +33,18 @@
 
 <h5></h5>
 
-## Responses
+# Importing the module
 
-microSegment7 comes with pre-coded `universal responses` use to display on a set of 7-Seg Display.
-
-### importing the module
-
-#### for common-cathode
+## for common-cathode
 ```c
 #include<microSegment7/commonCathode/response.c>
 ```
 
-#### for common-anode
+## for common-anode
 ```c
 #include<microSegment7/commonAnode/response.c>
 ```
-### Documentation for `Responses`
+# Documentation for `Responses`
 
 | Response Name                        | Function                    | Displays Result                                       | 
 | :------------------------------------ | :-------------------------- | :----------------------------------------------------------- |
@@ -64,7 +60,7 @@ microSegment7 comes with pre-coded `universal responses` use to display on a set
 | Loop | <pre>say_loop();</pre> | <img src="preview/say_loop.PNG" height="40" /> |
 
 
-## License
+# License
 
 microSegment7 is licensed under `MIT license`. View [license](https://github.com/virtualvivek/microSegment7/blob/master/LICENSE).<br>
 Copyright (c) 2019-21 [**Vivek Verma**](https://github.com/virtualvivek)
